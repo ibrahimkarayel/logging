@@ -20,3 +20,5 @@ Download project import as a maven project
 Enable log4j2 or logback
 Run sample examples
 
+course videos url: https://www.youtube.com/watch?v=h458XwNzfis&list=PLlekUqrQSpoK9-KO3zRPlGxXiUXJvsMhD
+
